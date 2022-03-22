@@ -29,6 +29,7 @@ Talk to me about
 - LinkedIn - [Here](https://www.linkedin.com/in/leonardo-buta/)
 - Gmail - [Here](mailto:leonardo.lbuta@gmail.com)
 - StackOverflow(PT) - [Here](https://pt.stackoverflow.com/users/131001/leonardo-buta)
+- Youtube - [Here](https://www.youtube.com/channel/UCBnUo0vRBTSYPoptKhdGlUQ)
 
 ---
 ⭐️ From [gc-codes](https://github.com/gc-codes)
